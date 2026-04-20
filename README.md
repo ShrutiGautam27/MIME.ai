@@ -462,11 +462,7 @@ Open [http://localhost:8000](http://localhost:8000) in your browser - you should
 ## Contributors
 
 Mime.ai was built with love by:
-
-- **Kartik** ([@kartik-m39](https://github.com/kartik-m39))
-- **Madhav** ([@madhavv-xd](https://github.com/madhavv-xd))
-- **Rachit** ([@rachitgoyal3313](https://github.com/rachitgoyal3313))
-- **Divyansh** ([@Divy13ansh](https://github.com/Divy13ansh))
+-Shruti Gautam
 
 ---
 
